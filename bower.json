@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Anna Lawley <alawley1@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6"
+  }
+}
