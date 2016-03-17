@@ -60,3 +60,5 @@ Temporary Items
 .apdisk
 
 bower_components
+
+.env
